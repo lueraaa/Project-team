@@ -1,0 +1,197 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .header-list a{
+    font-size:13px;
+    padding-left: 5px;
+  }
+  .top-wrapper h1{
+    font-size: 32px;
+  }
+  .container p{
+    font-size: 16px;
+  }
+  .content {
+    width: 100%;
+    margin: 0 auto;
+    height: 1300px;
+  }
+  .kategori {
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+  }
+  .room1 {
+    width: 50%;
+    margin: auto;
+  }
+  .room1 a {
+    margin: 100px 0 0 0;
+  }
+  .room2 {
+    width: 50%;
+    margin: auto;
+  }
+  .room2 a {
+    margin: 100px 0 0 0;
+  }
+  .room3 {
+    width: 50%;
+    margin: auto;
+  }
+  .room3 a {
+    margin: 100px 0 0 0;
+  }
+  .room4 {
+    width: 50%;
+    margin: auto;
+  }
+  .room4 a {
+    margin: 100px 0 0 0;
+  }
+  .room5 {
+    width: 50%;
+    margin: auto;
+  }
+  .room5 a {
+    margin: 100px 0 0 0;
+  }
+  .room6 {
+    width: 50%;
+    margin: auto;
+  }
+  .room6 a {
+    margin: 100px 0 0 0;
+  }
+
+  
+.footer{
+  height: 320px;
+  width: 100%;
+  margin: 0 auto;
+  }
+.left{
+  float: left;
+  margin: 0 50px 0 0;
+  width: 150px;
+  }
+.left p{
+  font-size: 16px;
+  }
+.center{
+  float: left;
+  margin: 0 50px 0 0;
+  width: 150px;
+}
+.center p{
+  font-size: 16px;
+  }
+.right {
+  float: left;
+  margin: 0 50px 0 0;
+  width: 200px;
+}
+}
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .header-list a{
+    font-size:10px;
+    padding-left: 2px;
+  }
+  .top-wrapper h1{
+    font-size: 20px;
+  }
+  .content {
+    width: 100%;
+    margin: 0 auto;
+    height: 1300px;
+  }
+  .container p{
+    font-size: 13px;
+  }
+  .kategori {
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+  }
+  .room1 {
+    width: 50%;
+    margin: auto;
+  }
+  .room1 a {
+    font-size: 13px;
+    margin: 100px 0 0 0;
+  }
+  .room2 {
+    width: 50%;
+    margin: auto;
+  }
+  .room2 a {
+    font-size: 13px;
+    margin: 100px 0 0 0;
+  }
+  .room3 {
+    width: 50%;
+    margin: auto;
+  }
+  .room3 a {
+    font-size: 13px;
+    margin: 100px 0 0 0;
+  }
+  .room4 {
+    width: 50%;
+    margin: auto;
+  }
+  .room4 a {
+    font-size: 13px;
+    margin: 100px 0 0 0;
+  }
+  .room5 {
+    width: 50%;
+    margin: auto;
+  }
+  .room5 a {
+    font-size: 13px;
+    margin: 100px 0 0 0;
+  }
+  .room6 {
+    width: 50%;
+    margin: auto;
+  }
+  .room6 a {
+    font-size: 13px;
+    margin: 100px 0 0 0;
+  }
+  .footer{
+  height: 320px;
+  width: 100%;
+  margin: 0 auto;
+  }
+.left{
+  float: left;
+
+  margin: 0 25px 0 0;
+  width: 75px;
+  }
+.left p{
+  font-size: 13px;
+  text-align: center;
+  }
+.center{
+  float: left;
+  margin: 0 25px 0 0;
+  width: 75px;
+}
+.center p{
+  font-size: 13px;
+  text-align: center;
+  }
+.right {
+  float: left;
+  margin: 0 25px 0 0;
+  width: 100px;
+}
+  .header-list{
+  display: none;
+}
+.menu-icon{
+  display: block;
+}
+}
