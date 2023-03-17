@@ -1,13 +1,13 @@
 body {
   margin: 0%;
-  font-family: "Lucida Grande";
+  font-family: Helvetica, sans-serif;
 }
 
 /* Tambahkan CSS untuk Header */
 .header {
   padding-bottom: 20px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: #62ac6e;
   height: 40px;
   text-align: center;
   letter-spacing: 5px;
@@ -18,7 +18,7 @@ body {
   float: right;
   padding: 10px 15px 0  30px;
   margin: 10 auto;
-  color:#FFD700;
+  color:#ffffff;
 }
 
 
@@ -59,7 +59,7 @@ a {
 }
 
 .explore {
-  background-color: #FFD700;
+  background-color: #62ac6e;
 }
 
 .btn {
@@ -76,7 +76,7 @@ a {
 
 .main {
   padding: 10px 10px 10px 10px;
-  background-color: #2f5167;
+  background-color: #62ac6e;
   background-size: cover;
   text-align: center;
   font-size: 20px;
@@ -89,15 +89,15 @@ a {
   padding: 0 auto;
   margin: 0 auto;
   background-color: white;
-  border: 3px solid black;
+  
 }
 .content h2{
   padding: 0 10px 0 70px;
-  color: #ef820D;
+  color: #62ac6e;
 }
 
 .kategori h1{
-  color: #ef820D;
+  color: #62ac6e;
 }
 
 input, textarea{
@@ -218,7 +218,7 @@ input, textarea{
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
-  background-color: #FFD700;
+  background-color: #62ac6e;
 }
 
 .jenis1:hover{
@@ -295,7 +295,7 @@ input, textarea{
   display: inline-block;
   opacity: 0.8;
   border-radius: 5px;
-  background-color: #FFD700;
+  background-color: #62ac6e;
   text-align: center;
   font-weight: bold;
 }
